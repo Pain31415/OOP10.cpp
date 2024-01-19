@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{09bc5c1e-1fa8-44c8-96cc-36289bb6d18e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Doublylinkedlist">
+      <UniqueIdentifier>{1dba2a84-db25-4eb6-9b05-f5c834d59f7f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="doublylinkedlist.h">
+      <Filter>Doublylinkedlist</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
